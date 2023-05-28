@@ -1,4 +1,5 @@
 trying to make changes to origin
 git add .
 git commit -m "How to be up to date with git"
-git push to origin master
+git pull origin
+git push to origin:master
